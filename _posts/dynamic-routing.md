@@ -14,4 +14,4 @@ Future blog post about the music of October 1994 celebrating 30 years
 
 ## What To Expect
 
-Coming Soon
+Coming Soon this month
