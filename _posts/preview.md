@@ -1,6 +1,6 @@
 ---
 title: "Welcome to the new 90's Teen Culture"
-excerpt: "9TC is back and this time we are bringing the 1990s onchain! We have been celebrating the best decade ever for a while now and we are so glad to be back.  This time however we are bridging the gap between 1993 and Web3"
+excerpt: "9TC is back and this time we are bringing the 1990s onchain! We have been celebrating the best decade ever for a while now and we are so glad to be back.  This time however we are bridging the gap between 1993 and Web3 for everyone"
 coverImage: "/assets/blog/preview/boombox80s.png"
 date: "2020-03-16T05:35:07.322Z"
 author:

@@ -1,6 +1,6 @@
 ---
 title: "Fall 1994 TV Premieres"
-excerpt: "Let's look back on some of the shows that made a splash in 1994...and some of the show that didn't even get in the pool"
+excerpt: "Let's look back on some of the shows that made a splash in 1994...and some of the show that didn't even get in the pool lol"
 coverImage: "/assets/blog/hello-world/boombox80s.png"
 date: "2020-03-16T05:35:07.322Z"
 author:
