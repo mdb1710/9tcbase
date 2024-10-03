@@ -1,5 +1,5 @@
 import Footer from "@/app/_components/footer";
-import { CMS_NAME, HOME_OG_IMAGE_URL } from "@/lib/constants";
+import { CMS_NAME, HOME_OG_IMAGE_URL, NEW_HOME_IMAGE_URL } from "@/lib/constants";
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import cn from "classnames";
@@ -10,10 +10,10 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: `Next.js Blog Example with ${CMS_NAME}`,
-  description: `A statically generated blog example using Next.js and ${CMS_NAME}.`,
+  title: `90s Teen Culture - Bringing 90s Nostalgia Onchain`,
+  description: `A Web3 powered blog for the 90s`,
   openGraph: {
-    images: [HOME_OG_IMAGE_URL],
+    images: [NEW_HOME_IMAGE_URL],
   },
 };
 
@@ -58,7 +58,7 @@ export default function RootLayout({
         <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
       </head>
       <body
-        className={cn(inter.className, "dark:bg-slate-900 dark:text-slate-400")}
+        className={cn(inter.className, "dark:bg-red-700 dark:text-white")}
       >
         <ThemeSwitcher />
         <div className="min-h-screen">{children}</div>
