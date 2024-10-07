@@ -2,7 +2,7 @@
 title: "Roswell Turns 25: The Quarter-Life Crisis of Aliens in New Mexico"
 excerpt: "It’s hard to believe that 25 years have passed since we first met Max, Liz, and Michael on the small screen. Roswell, the groundbreaking sci-fi series that captured the hearts of millions, continues to hold a special place in the hearts of fans. Let's take a trip down memory lane and celebrate this beloved show."
 coverImage: "/assets/blog/roswell-25/roswell-cast.png"
-date: "2020-10-07T05:35:07.322Z"
+date: "2024-10-07T05:35:07.322Z"
 author:
   name: 9TC BoomBox
   picture: "/assets/blog/authors/9tc.png"
