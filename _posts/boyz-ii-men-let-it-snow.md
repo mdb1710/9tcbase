@@ -1,5 +1,5 @@
 ---
-title: "Rock The Vote: A Special School Election Episode of City Guys"
+title: "Let It Snow: A Soulful Rendition of a Boyz II Men Holiday Classic 30 Years Later"
 excerpt: "In the realm of '90s sitcoms, City Guys held a special place in the hearts of young viewers. The show, which aired on NBC from 1997 to 2001, tackled relatable teen issues with humor, heart, and a touch of social commentary. One episode, in particular, stands out for its enduring message: Rock the Vote."
 coverImage: "/assets/blog/city-guys-rock-the-vote/boomboxsample.png"
 date: "2024-11-05T05:35:07.322Z"
