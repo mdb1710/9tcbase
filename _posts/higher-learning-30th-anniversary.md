@@ -8,7 +8,7 @@ author:
   picture: "/assets/blog/authors/9tc.png"
 ogImage:
   url: "/assets/blog/preview/boomboxsample.png"
-  ---
+---
 
 Thirty years. Three decades. That’s how long it’s been since John Singleton’s raw and unflinching drama, Higher Learning, first hit the big screen. Released in 1995, this isn’t a film about triumphant academic achievement or the carefree days of college life. Instead, it’s a powerful and often uncomfortable exploration of race, identity, and the simmering tensions that can erupt on a diverse college campus. Even three decades later, “Higher Learning” remains jarringly relevant, forcing us to grapple with issues that continue to plague our society.
 
