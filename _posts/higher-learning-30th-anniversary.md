@@ -1,6 +1,6 @@
 ---
-title: "Higher Education, Hard Lessons: Remembering "Higher Learning" 30 Years On"
-excerpt: "Thirty years. Three decades. That’s how long it’s been since John Singleton’s raw and unflinching drama, "Higher Learning," first hit the big screen. Released in 1995, this isn’t a film about triumphant academic achievement or the carefree days of college life. Instead, it’s a powerful and often uncomfortable exploration of race, identity, and the simmering tensions that can erupt on a diverse college campus. Even three decades later, “Higher Learning” remains jarringly relevant, forcing us to grapple with issues that continue to plague our society."
+title: "Higher Education, Hard Lessons: Remembering Higher Learning 30 Years On"
+excerpt: "Thirty years. Three decades. That’s how long it’s been since John Singleton’s raw and unflinching drama, Higher Learning, first hit the big screen. Released in 1995, this isn’t a film about triumphant academic achievement or the carefree days of college life. Instead, it’s a powerful and often uncomfortable exploration of race, identity, and the simmering tensions that can erupt on a diverse college campus. Even three decades later, Higher Learning remains jarringly relevant, forcing us to grapple with issues that continue to plague our society."
 coverImage: "/assets/blog/higher-learning-30th-anniversary/higherlearning1995.png"
 date: "2025-01-14T05:35:07.322Z"
 author:
