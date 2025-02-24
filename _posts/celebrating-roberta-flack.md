@@ -2,7 +2,7 @@
 title: "20 Timeless Roberta Flack Songs: A Journey Through Soul, Jazz, and Brilliance "
 excerpt: "Roberta Flack's voice. It's an instrument of unparalleled beauty, capable of conveying a spectrum of emotions from the deepest sorrow to the most radiant joy.  More than just a singer, she's a storyteller, weaving narratives through her music that resonate across generations."
 coverImage: "/assets/blog/city-guys-rock-the-vote/boomboxsample.png"
-date: "2024-02-24T05:35:07.322Z"
+date: "2025-02-24T05:35:07.322Z"
 author:
   name: 9TC BoomBox
   picture: "/assets/blog/authors/9tc.png"

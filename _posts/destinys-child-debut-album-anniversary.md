@@ -2,7 +2,7 @@
 title: "27 Years of Destiny's Child: A Legacy of Empowerment, Evolution, and Timeless Music"
 excerpt: "February 17th, 2025 marks the 27th anniversary of Destiny's Child's self-titled debut album. While it may not have skyrocketed to immediate superstardom, this album laid the foundation for one of the most iconic and influential girl groups of all time. It's a testament to their talent, hard work, and the ever-evolving nature of their music that Destiny's Child's impact continues to resonate today."
 coverImage: "/assets/blog/city-guys-rock-the-vote/boomboxsample.png"
-date: "2024-02-24T05:35:07.322Z"
+date: "2025-02-24T05:35:07.322Z"
 author:
   name: 9TC BoomBox
   picture: "/assets/blog/authors/9tc.png"
