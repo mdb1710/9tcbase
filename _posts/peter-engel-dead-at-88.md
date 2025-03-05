@@ -1,6 +1,6 @@
 ---
 title: "Executive Producer of Saved By The Bell Peter Engel Dies at 88"
-excerpt: "On March 3, 2025, television producer Peter Engel passed away at the age of 86, leaving behind a legacy that profoundly impacted teen entertainment and popular culture. Best known as the executive producer of "Saved by the Bell," Engel's influence on teen programming in the late 1980s and 1990s helped define a generation of television viewers."
+excerpt: "On March 3, 2025, television producer Peter Engel passed away at the age of 86, leaving behind a legacy that profoundly impacted teen entertainment and popular culture. Best known as the executive producer of Saved by the Bell, Engel's influence on teen programming in the late 1980s and 1990s helped define a generation of television viewers."
 coverImage: "/assets/blog/city-guys-rock-the-vote/boomboxsample.png"
 date: "2025-03-03T05:35:07.322Z"
 author:
