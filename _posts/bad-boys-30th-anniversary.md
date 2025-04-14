@@ -2,7 +2,7 @@
 title: "Celebrating 30 Years of The Movie Bad Boys: A Action Comedy Classic"
 excerpt: "This year marks the 30th anniversary of the groundbreaking action-comedy film Bad Boys, directed by Michael Bay and starring Will Smith and Martin Lawrence. Released on April 7, 1995, Bad Boys not only launched the careers of its leading actors but also set a new standard for buddy cop films, blending humor, action, and a dynamic chemistry that has resonated with audiences for three decades. As we celebrate this milestone, let’s take a closer look at what made Bad Boys a cultural phenomenon and revisit the top ten scenes that have left an indelible mark on fans."
 coverImage: "/assets/blog/city-guys-rock-the-vote/boomboxsample.png"
-date: "2025-03-17T05:35:07.322Z"
+date: "2025-04-14T05:35:07.322Z"
 author:
   name: 9TC BoomBox
   picture: "/assets/blog/authors/9tc.png"
