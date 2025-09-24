@@ -1,0 +1,27 @@
+---
+title: "Dawsons Creek Event In NYC: Celebrating the First Day of Fall With Nostaglia and Memories"
+excerpt: "On the evening of September 22, 2025, the heart of New York Citys theater district beat to the familiar, yearning rhythm of a 90s teen drama. The cast of *Dawsons Creek* reunited for a one-night-only charity event at the Richard Rodgers Theatre, an evening that was equal parts a nostalgic look back and a powerful show of solidarity."
+coverImage: "/assets/blog/city-guys-rock-the-vote/boomboxsample.png"
+date: "2025-09-24T05:35:07.322Z"
+author:
+  name: 9TC BoomBox
+  picture: "/assets/blog/authors/9tc.png"
+ogImage:
+  url: "/assets/blog/preview/boomboxsample.png"
+---
+
+On the evening of September 22, 2025, the heart of New York City's theater district beat to the familiar, yearning rhythm of a 90s teen drama. The cast of *Dawson's Creek* reunited for a one-night-only charity event at the Richard Rodgers Theatre, an evening that was equal parts a nostalgic look back and a powerful show of solidarity. What was initially announced as a simple live table read of the pilot episode became something far more meaningful, a testament to the enduring bonds of friendship and the resilience of the human spirit.
+
+The night, a collaboration with the organization F Cancer, was spearheaded by Michelle Williams, who has remained close with her castmates since the show wrapped in 2003. The primary impetus for the reunion was to rally around James Van Der Beek, who was diagnosed with stage 3 colorectal cancer last year. The news of his diagnosis in late 2024 sent shockwaves through the fandom, and the event was a tangible expression of support from his "Capeside family" and a global community of fans.
+
+However, in a bittersweet twist, Van Der Beek was unable to attend in person. He announced on social media just a day before the event that he had been struck with two stomach viruses, a setback that, as he put it, left him "gutted." The disappointment was palpable for both the actor and the thousands of fans who had traveled from all over for the chance to see him. But this is a story about community, and in a true show of force, the cast and his family made sure his presence was felt.
+
+The role of Dawson Leery, a character so inextricably linked to Van Der Beek, was filled by an extraordinary last-minute replacement: Lin-Manuel Miranda. The *Hamilton* creator, who had a connection to the event through its director, Jason Moore, and producer Thomas Kail, stepped into the shoes of the iconic film-obsessed teen. It was a casting choice so brilliant and unexpected it could only happen in a real-life script. Miranda’s presence brought a unique energy, his enthusiastic reading of Dawson’s verbose monologues delighting the crowd and adding a new layer to the familiar dialogue.
+
+The rest of the core cast was there in full force, and their chemistry was as undeniable as ever. Katie Holmes (Joey Potter), Joshua Jackson (Pacey Witter), and Michelle Williams (Jen Lindley) took the stage to roaring applause. It was a beautiful sight to see them together again, their easy rapport and genuine affection for one another on full display. They were joined by other beloved members of the ensemble, including Mary Beth Peil (Evelyn Ryan), John Wesley Shipp (Mitch Leery), Mary-Margaret Humes (Gail Leery), Nina Repeta (Bessie Potter), Kerr Smith (Jack McPhee), Meredith Monroe (Andie McPhee), and Busy Philipps (Audrey Liddell). The cast of the later seasons, Philipps, Smith, and Monroe, even took on other roles in the pilot reading, a fun nod to the show's evolution.
+
+The reading of the pilot, which first aired in 1998, was a masterclass in nostalgia. The audience cheered at iconic lines and moments—Joey's grand entrance, Pacey’s signature smirk, and the dramatic, self-aware dialogue that defined the series. But the most emotional moment of the night came when Van Der Beek made a surprise appearance via a pre-recorded video message. Projected on a screen for the entire audience, his heartfelt words of gratitude for his castmates and the fans brought tears to many eyes. He spoke about his battle with cancer and how the outpouring of support had humbled him, thanking everyone for showing up for him "when I needed it most." He then jokingly introduced Miranda as his "understudy," a moment that perfectly captured the blend of humor and poignancy that filled the room.
+
+The night reached its emotional climax when Van Der Beek’s wife, Kimberly, and their six children, who attended the event on his behalf, joined the cast on stage. Together, they led the entire theater in a singalong of the show’s unforgettable theme song, Paula Cole’s “I Don’t Want to Wait.” It was a powerful, beautiful, and deeply moving moment. As the cast and the Van Der Beek family stood together, arms around each other, singing a song that defined a generation, it was clear that the bonds formed on the set of *Dawson's Creek* were more than just professional. They were family.
+
+The *Dawson's Creek* reunion on September 22, 2025, was not just a tribute to a television show. It was a celebration of friendship, a beacon of hope in the face of adversity, and a powerful reminder of the deep connections that can be forged through shared experiences. The event raised significant funds for F Cancer and showcased the immense love and support for a cherished actor. The night proved that while time may pass and lives may change, the relationships—and the fandoms—that shape us will always be there, waiting.
